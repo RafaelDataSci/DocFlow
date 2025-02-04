@@ -1,0 +1,18 @@
+PySimpleGUI
+python-docx
+docx2pdf
+PyPDF2
+concurrent.futures
+
+# 📌 Installation Instructions
+
+## 1️⃣ Install all dependencies at once
+pip install -r requirements.txt
+
+## 2️⃣ Install dependencies individually (if needed)
+pip install PySimpleGUI python-docx docx2pdf PyPDF2
+
+## 3️⃣ Verify installation
+pip list
+
+# ✅ Now your environment is fully set up!
