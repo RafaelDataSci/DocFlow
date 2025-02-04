@@ -4,6 +4,10 @@
 
 ---
 
+![image](https://github.com/user-attachments/assets/961cc122-e11e-46c3-a30e-8599b1784ae2)
+
+---
+
 ## 📌 Project Overview
 This project is a **GUI-based document processing tool** that automates various tasks, making document handling more efficient and user-friendly. 
 
@@ -152,6 +156,6 @@ pip install -r requirements.txt
 python DocFlow.py
 ```
 
-![image](https://github.com/user-attachments/assets/dfba0be2-d439-443e-83bf-bf60f0949c99)
+
 
 
