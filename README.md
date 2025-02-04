@@ -76,7 +76,8 @@ Implemented multiprocessing to speed up Word and PDF processing:
 with ProcessPoolExecutor() as executor:
     futures = {executor.submit(process_word_file, file, replacements, destination_folder): file for file in files}
 
-Used in-memory file handling (BytesIO********************************************) to reduce disk I/O.
+Used in-memory file handling (`BytesIO`) to reduce disk I/O.
+
 
 ✅ File Handling Fixes
 
